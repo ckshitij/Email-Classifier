@@ -1,5 +1,5 @@
-# Email-Classifier
 # Email Classifier 
+___________________
 ## Module Used Documentation
 - [Scikit Learn](http://scikit-learn.org/stable/documentation.html)
 - [Nltk](http://www.nltk.org/)

@@ -1,4 +1,7 @@
 # Email Classifier 
+- Email Classifier is a model which classify that which type of your mail it is, for example like whether mail is *spam or not*. 
+- Its gives the label to the mail like in gmail we have many category like update ,spam, normal mails etc.
+
 ___________________
 ## Module Used Documentation
 - [Scikit Learn](http://scikit-learn.org/stable/documentation.html)

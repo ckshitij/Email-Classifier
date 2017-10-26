@@ -188,3 +188,4 @@ ___________________
 3. [LSA Implemntation by Chris jmc cormick](https://github.com/chrisjmccormick/LSA_Classification)
 4. [CNNs for sentence classification](https://github.com/yoonkim/CNN_sentence)
 5. [CNN, RNN (GRU and LSTM) and Word Embeddings on Tensorflow](https://github.com/jiegzhan/multi-class-text-classification-cnn-rnn)
+6. [HackerEarth Data Cleaning Tutorial](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/text-mining-feature-engineering-r/tutorial/)
